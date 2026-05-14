@@ -13,3 +13,7 @@ This Monokai Pro Community Edition (CE) theme is maintained by [erik-brueggemann
 ## Monokai Pro for more apps
 
 [![Monokai Pro](https://raw.githubusercontent.com/monokai-pro/monokai-pro/main/images/monokai-pro.png)](https://monokai.pro)
+
+## Modifications
+
+Comments have been lightened to increase contrast.
